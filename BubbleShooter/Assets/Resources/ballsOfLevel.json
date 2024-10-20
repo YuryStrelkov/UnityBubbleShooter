@@ -1,0 +1,7 @@
+{
+	"playerBallsCount": 10,
+	"levelBallsGridRes": {"x": 9, "y": 3},
+	"levelBalls":["r", "g", "b", "r", "g", "b", "r", "g", "b",
+			      "r", "g", "b", "r", "g", "b", "r", "g", "b",
+			      "r", "g", "b", "r", "g", "b", "r", "g", "b"]
+}
